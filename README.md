@@ -87,13 +87,13 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <a href="https://dev.to/bilalktk" target="blank">
   <img align="center" alt="Bilal's Dev" width="30px" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png" /> &nbsp;
  </a>
-<a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
+<a href="https://www.linkedin.com/in/bilalkhattak/" target="blank">
   <img align="center" alt="Bilal's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp;
  </a>
- <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
+ <a href="https://www.instagram.com/bilalkhattak_/" target="blank">
   <img align="center" alt="Bilal's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp;
  </a>
- <a href="https://twitter.com/pramod2107" target="blank">
+ <a href="https://twitter.com/bilalkthk" target="blank">
   <img align="center" alt="Bilal's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp;
  </a>
  
